@@ -1,2 +1,4 @@
-# hypemodcape
-Rep for HypeMod cape loading system
+#HypeMod Client Cape System
+
+Its Just Loads The Capes by players Nickname very dumb but easy to config
+
